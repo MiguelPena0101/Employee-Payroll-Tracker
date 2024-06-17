@@ -4,8 +4,8 @@
 This script is designed to manage employee data by allowing users to input employee information, calculate the average salary, select a random employee, and display all employee data in an HTML table.
 
 ## Screenshots
-![Collecting Employee Data](path/to/your/screenshot1.png)
-![Displaying Employee Data](path/to/your/screenshot2.png)
+![Collecting Employee Data](Assets/Screenshots/screenshot1.png)
+![Displaying Employee Data](Assets/Screenshots/screenshot2.png)
 
 ## Features
 - **Collect Employee Data**: Prompt the user to input employee details.
