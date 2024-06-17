@@ -15,13 +15,12 @@ This script is designed to manage employee data by allowing users to input emplo
 
 ## How to Use
 
-### Clone the Repository
+## Clone the Repository
 To get started, clone this repository using the following command:
-```sh
+
 git clone https://github.com/yourusername/employeemanager.git
 
-
-### Resources
+## Resources
 
 This project was made possible with the help of various resources and contributions from team members.
 
@@ -35,7 +34,7 @@ This project was made possible with the help of various resources and contributi
 - Nick
 - Erica
 
-### Special Thanks
+## Special Thanks
 
 To the following Classmate and teacher for helping crack a few codes and the lessons that helped me understand this project. 
 - **Michael F**:
