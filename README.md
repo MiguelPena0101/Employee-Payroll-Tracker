@@ -31,17 +31,7 @@ This project was made possible with the help of various resources and contributi
 - **iPhone App**: 
   - [JavaScript Code Editor]
 
-
-- James
-- Stephen
-- Nick
-- Erica
-
 ### Special Thanks
 
 To the following Classmate and teacher for helping crack a few codes and the lessons that helped me understand this project. 
 - **Michael F**:
-- James
-- Stephen
-- Nick
-- Erica
