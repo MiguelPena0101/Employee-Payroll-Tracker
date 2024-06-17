@@ -30,6 +30,10 @@ This project was made possible with the help of various resources and contributi
   - [W3Schools](https://www.w3schools.com/)
 - **iPhone App**: 
   - [JavaScript Code Editor]
+- James
+- Stephen
+- Nick
+- Erica
 
 ### Special Thanks
 
